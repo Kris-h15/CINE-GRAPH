@@ -1,0 +1,37 @@
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.selected-node {
+  margin: 20px auto 0;
+  max-width: 500px;
+  padding: 20px;
+  background: #1f2937;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.selected-node h3 {
+  margin-top: 0;
+}
+
+.selected-node p {
+  margin: 8px 0;
+}
+
+.clear-selection {
+  margin-top: 12px;
+  padding: 9px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: white;
+  color: #111827;
+}
