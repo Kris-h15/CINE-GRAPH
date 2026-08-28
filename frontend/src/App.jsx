@@ -13,7 +13,7 @@ function App() {
 
   const [selectedMovie, setSelectedMovie] = useState("");
   const [movieDetails, setMovieDetails] = useState(null);
-  aq;
+
 
   const [connection, setConnection] = useState(null);
 
